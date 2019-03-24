@@ -121,7 +121,8 @@ h3 {
 h4 {
   font-size: 1em;
   font-weight: 400;
-  margin-bottom: 20px; }
+  margin-bottom: 10px;
+  margin-top: 10px; }
 
 h5 {
   font-size: 0.85em;
@@ -334,7 +335,8 @@ h6 {
       .project .project_info li img {
         width: 100%; }
       .project .project_info li .project_content {
-        padding: 10%; }
+        padding: 10%;
+        direction: rtl; }
   .project.show {
     -webkit-transition: 0.3s;
     -ms-transition: 0.3s;
