@@ -482,7 +482,7 @@ h6 {
     font-weight: 400;
     margin-bottom: 0; }
     .price .rate::before {
-      content: '$';
+      content: '';
       font-size: .5em !important; }
   .price p {
     margin: 0 !important; }
