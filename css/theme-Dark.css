@@ -614,6 +614,8 @@ footer {
     vertical-align: middle;
     font-size: 0.75em;
     font-weight: 500 !important; }
+    footer p a{
+    color: red;}
   footer .drag {
     display: table-cell;
     vertical-align: middle;
